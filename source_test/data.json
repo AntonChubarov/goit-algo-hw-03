@@ -1,0 +1,27 @@
+{
+  "employees": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "age": 30,
+      "position": "Software Engineer"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "age": 28,
+      "position": "Data Scientist"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "age": 35,
+      "position": "UX Designer"
+    }
+  ],
+  "company": {
+    "name": "TechCo",
+    "location": "Silicon Valley",
+    "industry": "Technology"
+  }
+}
